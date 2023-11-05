@@ -1,0 +1,1 @@
+Some utility functions that I use all the time, mostly for measuring performance.
